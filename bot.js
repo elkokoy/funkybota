@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 
-const Token = "`\`\` التوكن `\`\`"
+const Token = "`\`\`fdfsdf5sd6f4sdf564sd6fsdf5sdf56sdf546`\`\`"
 var prefix = "!"
 client.on('message', message => {
     if (message.content.startsWith(prefix + "avatar")) {
